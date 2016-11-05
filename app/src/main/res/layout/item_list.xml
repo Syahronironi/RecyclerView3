@@ -29,6 +29,7 @@
             android:layout_alignBottom="@+id/imageView"
             android:layout_marginLeft="16dp"
             android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            android:textColor="@android:color/white"
             tools:text="Judul" />
 
         <TextView
